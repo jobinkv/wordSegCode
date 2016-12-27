@@ -1,0 +1,195 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /users/jobinkv/2ND_code/wordSegCode/ver01/build
+Scanning dependencies of target docSeg
+[ 12%] Building CXX object CMakeFiles/docSeg.dir/main.cpp.o
+/users/jobinkv/2ND_code/wordSegCode/ver01/main.cpp: In function ‘int main(int, char* const*)’:
+/users/jobinkv/2ND_code/wordSegCode/ver01/main.cpp:188:31: warning: ignoring return value of ‘int system(const char*)’, declared with attribute warn_unused_result [-Wunused-result]
+   system(optloc.str().c_str());
+                               ^
+Linking CXX executable docSeg
+[100%] Built target docSeg
+set extractor
+Load class
+  Classifier: Loading model_Documents_rb_29_rdtr.xml
+  Classifier: Loading model_Documents_rb_13_rdtr.xml
+  Classifier: Loading model_Documents_rb_10_rdtr.xml
+  Classifier: Loading model_Documents_rb_8_rdtr.xml
+  Classifier: Loading model_Documents_rb_18_rdtr.xml
+  Classifier: Loading model_Documents_rb_11_rdtr.xml
+  Classifier: Loading model_Documents_rb_9_rdtr.xml
+  Classifier: Loading model_Documents_rb_20_rdtr.xml
+  Classifier: Loading model_Documents_rb_2_rdtr.xml
+  Classifier: Loading model_Documents_rb_15_rdtr.xml
+  Classifier: Loading model_Documents_rb_17_rdtr.xml
+  Classifier: Loading model_Documents_rb_12_rdtr.xml
+  Classifier: Loading model_Documents_rb_22_rdtr.xml
+  Classifier: Loading model_Documents_rb_28_rdtr.xml
+  Classifier: Loading model_Documents_rb_26_rdtr.xml
+  Classifier: Loading model_Documents_rb_16_rdtr.xml
+  Classifier: Loading model_Documents_rb_5_rdtr.xml
+  Classifier: Loading model_Documents_rb_24_rdtr.xml
+  Classifier: Loading model_Documents_rb_27_rdtr.xml
+  Classifier: Loading model_Documents_rb_25_rdtr.xml
+  Classifier: Loading model_Documents_rb_1_rdtr.xml
+  Classifier: Loading model_Documents_rb_4_rdtr.xml
+  Classifier: Loading model_Documents_rb_14_rdtr.xml
+  Classifier: Loading model_Documents_rb_0_rdtr.xml
+  Classifier: Loading model_Documents_rb_21_rdtr.xml
+  Classifier: Loading model_Documents_rb_3_rdtr.xml
+  Classifier: Loading model_Documents_rb_23_rdtr.xml
+  Classifier: Loading model_Documents_rb_7_rdtr.xml
+  Classifier: Loading model_Documents_rb_19_rdtr.xml
+  Classifier: Loading model_Documents_rb_6_rdtr.xml
+find ./models/glb/Exp_6/ -name *.xml -print > globfeatfilename.txt
+./models/glb/Exp_6/hsv_histogram_2.xml
+./models/glb/Exp_6/hsv_histogram_17.xml
+./models/glb/Exp_6/hsv_histogram_19.xml
+./models/glb/Exp_6/hsv_histogram_15.xml
+./models/glb/Exp_6/hsv_histogram_8.xml
+./models/glb/Exp_6/hsv_histogram_21.xml
+./models/glb/Exp_6/hsv_histogram_22.xml
+./models/glb/Exp_6/hsv_histogram_20.xml
+./models/glb/Exp_6/hsv_histogram_24.xml
+./models/glb/Exp_6/hsv_histogram_28.xml
+./models/glb/Exp_6/hsv_histogram_25.xml
+./models/glb/Exp_6/hsv_histogram_26.xml
+./models/glb/Exp_6/hsv_histogram_5.xml
+./models/glb/Exp_6/hsv_histogram_9.xml
+./models/glb/Exp_6/hsv_histogram_27.xml
+./models/glb/Exp_6/hsv_histogram_18.xml
+./models/glb/Exp_6/hsv_histogram_7.xml
+./models/glb/Exp_6/hsv_histogram_13.xml
+./models/glb/Exp_6/hsv_histogram_3.xml
+./models/glb/Exp_6/hsv_histogram_16.xml
+./models/glb/Exp_6/hsv_histogram_11.xml
+./models/glb/Exp_6/hsv_histogram_10.xml
+./models/glb/Exp_6/hsv_histogram_4.xml
+./models/glb/Exp_6/hsv_histogram_1.xml
+./models/glb/Exp_6/hsv_histogram_29.xml
+./models/glb/Exp_6/hsv_histogram_6.xml
+./models/glb/Exp_6/hsv_histogram_14.xml
+./models/glb/Exp_6/hsv_histogram_12.xml
+./models/glb/Exp_6/hsv_histogram_23.xml
+./models/glb/Exp_6/hsv_histogram_0.xml
+Building FLANN search structure...done.
+/users/jobinkv/2nd_data/word100img/originalImage/1506_blk_108.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_116.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1516_blk_94.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_68.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_143.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_74.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_115.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_147.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_172.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_66.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1508_blk_62.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_153.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_70.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_131.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1505_blk_167.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_35.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_77.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_136.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_27.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_14.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_31.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1508_blk_124.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1508_blk_39.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_99.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_161.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_120.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_53.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_119.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1516_blk_118.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_69.png
+testing
+colormap minmax: 0 0 Type:5
+mkdir -p /users/jobinkv/2nd_data/word100img/validationOp/stage_6

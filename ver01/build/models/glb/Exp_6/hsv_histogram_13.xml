@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<globfeat type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>64</cols>
+  <dt>f</dt>
+  <data>
+    0. 2.60902882e+01 1.67728939e+01 2.12136810e+02 0. 0. 0. 0. 0. 0. 0.
+    0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+    0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+    0. 0. 0. 0. 0. 0. 0.</data></globfeat>
+</opencv_storage>

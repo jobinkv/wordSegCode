@@ -1,0 +1,513 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /users/jobinkv/2ND_code/wordSegCode/ver00/build
+Scanning dependencies of target docSeg
+[ 12%] Building CXX object CMakeFiles/docSeg.dir/main.cpp.o
+Linking CXX executable docSeg
+[100%] Built target docSeg
+HandDetector::trainModels()
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_157.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_157.png
+  Writing global feature: ../models/txt/hsv_histogram_0.xml
+  Training random forest regression model ... time to train:12.8989 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_0_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_91.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_91.png
+  Writing global feature: ../models/txt/hsv_histogram_1.xml
+  Training random forest regression model ... time to train:12.4971 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_1_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_39.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_39.png
+  Writing global feature: ../models/txt/hsv_histogram_2.xml
+  Training random forest regression model ... time to train:11.387 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_2_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1509_blk_12.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1509_blk_12.png
+  Writing global feature: ../models/txt/hsv_histogram_3.xml
+  Training random forest regression model ... time to train:12.1851 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_3_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_74.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_74.png
+  Writing global feature: ../models/txt/hsv_histogram_4.xml
+  Training random forest regression model ... time to train:19.0652 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_4_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_136.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_136.png
+  Writing global feature: ../models/txt/hsv_histogram_5.xml
+  Training random forest regression model ... time to train:11.3369 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_5_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_110.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_110.png
+  Writing global feature: ../models/txt/hsv_histogram_6.xml
+  Training random forest regression model ... time to train:10.6413 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_6_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_66.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_66.png
+  Writing global feature: ../models/txt/hsv_histogram_7.xml
+  Training random forest regression model ... time to train:9.69317 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_7_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_88.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_88.png
+  Writing global feature: ../models/txt/hsv_histogram_8.xml
+  Training random forest regression model ... time to train:15.2047 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_8_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1504_blk_58.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1504_blk_58.png
+  Writing global feature: ../models/txt/hsv_histogram_9.xml
+  Training random forest regression model ... time to train:6.55407 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_9_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_172.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_172.png
+  Writing global feature: ../models/txt/hsv_histogram_10.xml
+  Training random forest regression model ... time to train:15.0744 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_10_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_124.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_124.png
+  Writing global feature: ../models/txt/hsv_histogram_11.xml
+  Training random forest regression model ... time to train:7.59443 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_11_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_123.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_123.png
+  Writing global feature: ../models/txt/hsv_histogram_12.xml
+  Training random forest regression model ... time to train:12.5508 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_12_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1516_blk_94.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1516_blk_94.png
+  Writing global feature: ../models/txt/hsv_histogram_13.xml
+  Training random forest regression model ... time to train:8.41345 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_13_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_124.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_124.png
+  Writing global feature: ../models/txt/hsv_histogram_14.xml
+  Training random forest regression model ... time to train:12.1761 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_14_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1511_blk_116.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1511_blk_116.png
+  Writing global feature: ../models/txt/hsv_histogram_15.xml
+  Training random forest regression model ... time to train:19.8778 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_15_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1507_blk_110.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1507_blk_110.png
+  Writing global feature: ../models/txt/hsv_histogram_16.xml
+  Training random forest regression model ... time to train:9.47317 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_16_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_74.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_74.png
+  Writing global feature: ../models/txt/hsv_histogram_17.xml
+  Training random forest regression model ... time to train:8.23795 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_17_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_82.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1510_blk_82.png
+  Writing global feature: ../models/txt/hsv_histogram_18.xml
+  Training random forest regression model ... time to train:16.2256 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_18_rdtr.xml
+saved 
+/users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_49.png
+
+  Loading: /users/jobinkv/2nd_data/word100img/groundTruth/1508_blk_49.png
+  Writing global feature: ../models/txt/hsv_histogram_19.xml
+  Training random forest regression model ... time to train:14.1163 secs.
+  Classifier: Saving ../models/txt1/model_Documents_rb_19_rdtr.xml
+saved 
+set extractor
+find ../models/txt1/ -name *.xml -print > modelfilename.txt
+Load class
+  Classifier: Loading ../models/txt1/model_Documents_rb_13_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_10_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_8_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_18_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_11_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_9_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_2_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_15_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_17_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_12_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_16_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_5_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_1_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_4_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_14_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_0_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_3_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_7_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_19_rdtr.xml
+  Classifier: Loading ../models/txt1/model_Documents_rb_6_rdtr.xml
+find ../models/txt/ -name *.xml -print > globfeatfilename.txt
+../models/txt/hsv_histogram_2.xml
+../models/txt/hsv_histogram_17.xml
+../models/txt/hsv_histogram_19.xml
+../models/txt/hsv_histogram_15.xml
+../models/txt/hsv_histogram_8.xml
+../models/txt/hsv_histogram_5.xml
+../models/txt/hsv_histogram_9.xml
+../models/txt/hsv_histogram_18.xml
+../models/txt/hsv_histogram_7.xml
+../models/txt/hsv_histogram_13.xml
+../models/txt/hsv_histogram_3.xml
+../models/txt/hsv_histogram_16.xml
+../models/txt/hsv_histogram_11.xml
+../models/txt/hsv_histogram_10.xml
+../models/txt/hsv_histogram_4.xml
+../models/txt/hsv_histogram_1.xml
+../models/txt/hsv_histogram_6.xml
+../models/txt/hsv_histogram_14.xml
+../models/txt/hsv_histogram_12.xml
+../models/txt/hsv_histogram_0.xml
+Building FLANN search structure...done.
+i = 20
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_115.png
+testing
+colormap minmax: 0 0.9999 Type:5
+i = 21
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_146.png
+testing
+colormap minmax: 0 0.999953 Type:5
+i = 22
+/users/jobinkv/2nd_data/word100img/originalImage/1516_blk_45.png
+testing
+colormap minmax: 0 0.999943 Type:5
+i = 23
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_9.png
+testing
+colormap minmax: 0 0.999952 Type:5
+i = 24
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_24.png
+testing
+colormap minmax: 0 0.999945 Type:5
+i = 25
+/users/jobinkv/2nd_data/word100img/originalImage/1504_blk_34.png
+testing
+colormap minmax: 0 0.999927 Type:5
+i = 26
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_14.png
+testing
+colormap minmax: 0 0.999953 Type:5
+i = 27
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_78.png
+testing
+colormap minmax: 0 0.999919 Type:5
+i = 28
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_142.png
+testing
+colormap minmax: 0 0.999955 Type:5
+i = 29
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_31.png
+testing
+colormap minmax: 0 0.999949 Type:5
+i = 30
+/users/jobinkv/2nd_data/word100img/originalImage/1504_blk_46.png
+testing
+colormap minmax: 0 0.999938 Type:5
+i = 31
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_115.png
+testing
+colormap minmax: 0.0170761 0.999948 Type:5
+i = 32
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_42.png
+testing
+colormap minmax: 0 0.999903 Type:5
+i = 33
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_120.png
+testing
+colormap minmax: 0 0.999886 Type:5
+i = 34
+/users/jobinkv/2nd_data/word100img/originalImage/1516_blk_68.png
+testing
+colormap minmax: 0 0.999944 Type:5
+i = 35
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_131.png
+testing
+colormap minmax: 0 0.999953 Type:5
+i = 36
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_69.png
+testing
+colormap minmax: 0 0.999947 Type:5
+i = 37
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_161.png
+testing
+colormap minmax: 0 0.999949 Type:5
+i = 38
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_89.png
+testing
+colormap minmax: 0 0.999953 Type:5
+i = 39
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_86.png
+testing
+colormap minmax: 0 0.999959 Type:5
+i = 40
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_71.png
+testing
+colormap minmax: 0 0.999952 Type:5
+i = 41
+/users/jobinkv/2nd_data/word100img/originalImage/1516_blk_118.png
+testing
+colormap minmax: 0 0.999943 Type:5
+i = 42
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_28.png
+testing
+colormap minmax: 0 0.999946 Type:5
+i = 43
+/users/jobinkv/2nd_data/word100img/originalImage/1505_blk_167.png
+testing
+colormap minmax: 0 0.999947 Type:5
+i = 44
+/users/jobinkv/2nd_data/word100img/originalImage/1517_blk_6.png
+testing
+colormap minmax: 0 0.999924 Type:5
+i = 45
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_40.png
+testing
+colormap minmax: 0 0.999951 Type:5
+i = 46
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_147.png
+testing
+colormap minmax: 0 0.999958 Type:5
+i = 47
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_139.png
+testing
+colormap minmax: 0 0.999952 Type:5
+i = 48
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_118.png
+testing
+colormap minmax: 0 0.999951 Type:5
+i = 49
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_154.png
+testing
+colormap minmax: 0 0.999966 Type:5
+i = 50
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_35.png
+testing
+colormap minmax: 0 0.999883 Type:5
+i = 51
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_80.png
+testing
+colormap minmax: 0 0.999901 Type:5
+i = 52
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_130.png
+testing
+colormap minmax: 0 0.999961 Type:5
+i = 53
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_70.png
+testing
+colormap minmax: 0 0.999916 Type:5
+i = 54
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_119.png
+testing
+colormap minmax: 0 0.999919 Type:5
+i = 55
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_170.png
+testing
+colormap minmax: 0 0.999957 Type:5
+i = 56
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_38.png
+testing
+colormap minmax: 0 0.999952 Type:5
+i = 57
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_83.png
+testing
+colormap minmax: 0 0.999955 Type:5
+i = 58
+/users/jobinkv/2nd_data/word100img/originalImage/1504_blk_102.png
+testing
+colormap minmax: 0 0.999945 Type:5
+i = 59
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_150.png
+testing
+colormap minmax: 0 0.999969 Type:5
+i = 60
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_68.png
+testing
+colormap minmax: 0 0.99995 Type:5
+i = 61
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_99.png
+testing
+colormap minmax: 0 0.999948 Type:5
+i = 62
+/users/jobinkv/2nd_data/word100img/originalImage/1516_blk_54.png
+testing
+colormap minmax: 0 0.999931 Type:5
+i = 63
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_77.png
+testing
+colormap minmax: 0 0.999955 Type:5
+i = 64
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_53.png
+testing
+colormap minmax: 0 0.999941 Type:5
+i = 65
+/users/jobinkv/2nd_data/word100img/originalImage/1509_blk_51.png
+testing
+colormap minmax: 0 0.999918 Type:5
+i = 66
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_116.png
+testing
+colormap minmax: 0 0.999964 Type:5
+i = 67
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_162.png
+testing
+colormap minmax: 0 0.999946 Type:5
+i = 68
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_71.png
+testing
+colormap minmax: 0 0.999906 Type:5
+i = 69
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_153.png
+testing
+colormap minmax: 0 0.999958 Type:5
+i = 70
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_11.png
+testing
+colormap minmax: 0 0.999905 Type:5
+i = 71
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_142.png
+testing
+colormap minmax: 0 0.999889 Type:5
+i = 72
+/users/jobinkv/2nd_data/word100img/originalImage/1508_blk_62.png
+testing
+colormap minmax: 0 0.999931 Type:5
+i = 73
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_34.png
+testing
+colormap minmax: 0 0.999943 Type:5
+i = 74
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_92.png
+testing
+colormap minmax: 0 0.999951 Type:5
+i = 75
+/users/jobinkv/2nd_data/word100img/originalImage/1506_blk_76.png
+testing
+colormap minmax: 0 0.999905 Type:5
+i = 76
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_64.png
+testing
+colormap minmax: 0 0.999941 Type:5
+i = 77
+/users/jobinkv/2nd_data/word100img/originalImage/1506_blk_11.png
+testing
+colormap minmax: 0 0.999923 Type:5
+i = 78
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_39.png
+testing
+colormap minmax: 0 0.999922 Type:5
+i = 79
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_81.png
+testing
+colormap minmax: 0 0.999949 Type:5
+i = 80
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_27.png
+testing
+colormap minmax: 0 0.999943 Type:5
+i = 81
+/users/jobinkv/2nd_data/word100img/originalImage/1504_blk_118.png
+testing
+colormap minmax: 0 0.999943 Type:5
+i = 82
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_33.png
+testing
+colormap minmax: 0 0.999951 Type:5
+i = 83
+/users/jobinkv/2nd_data/word100img/originalImage/1506_blk_60.png
+testing
+colormap minmax: 0 0.999923 Type:5
+i = 84
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_126.png
+testing
+colormap minmax: 0 0.999902 Type:5
+i = 85
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_16.png
+testing
+colormap minmax: 0 0.99995 Type:5
+i = 86
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_22.png
+testing
+colormap minmax: 0 0.999909 Type:5
+i = 87
+/users/jobinkv/2nd_data/word100img/originalImage/1511_blk_59.png
+testing
+colormap minmax: 0 0.999889 Type:5
+i = 88
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_23.png
+testing
+colormap minmax: 0 0.999948 Type:5
+i = 89
+/users/jobinkv/2nd_data/word100img/originalImage/1508_blk_103.png
+testing
+colormap minmax: 0 0.999939 Type:5
+i = 90
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_84.png
+testing
+colormap minmax: 0 0.999922 Type:5
+i = 91
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_116.png
+testing
+colormap minmax: 0 0.999945 Type:5
+i = 92
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_57.png
+testing
+colormap minmax: 0 0.999948 Type:5
+i = 93
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_143.png
+testing
+colormap minmax: 0 0.999954 Type:5
+i = 94
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_54.png
+testing
+colormap minmax: 0 0.999924 Type:5
+i = 95
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_46.png
+testing
+colormap minmax: 0 0.999944 Type:5
+i = 96
+/users/jobinkv/2nd_data/word100img/originalImage/1507_blk_14.png
+testing
+colormap minmax: 0 0.999941 Type:5
+i = 97
+/users/jobinkv/2nd_data/word100img/originalImage/1506_blk_108.png
+testing
+colormap minmax: 0 0.999921 Type:5
+i = 98
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_41.png
+testing
+colormap minmax: 0 0.999935 Type:5
+i = 99
+/users/jobinkv/2nd_data/word100img/originalImage/1510_blk_19.png
+testing
+colormap minmax: 0 0.999949 Type:5

@@ -1,0 +1,1 @@
+/users/jobinkv/2ND_code/wordSegCode/ver00/build/CMakeFiles/docSeg.dir
